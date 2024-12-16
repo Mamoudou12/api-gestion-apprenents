@@ -43,8 +43,4 @@ L'API sera accessible à [http://localhost:3010](http://localhost:3100)
 
 ## ✍️ Auteur
 
-Projet réalisé par 
-- [Ehya-Ag](https://github.com/Ehya-Ag)
-- Mamoudou Ba
-- Uthmane Ly
-- Abda Demba
+[Mamoudou Ba](https://github.com/Mamoudou12)
