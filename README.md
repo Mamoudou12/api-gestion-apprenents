@@ -39,8 +39,7 @@ npm start
 
 L'API sera accessible à [http://localhost:3010](http://localhost:3100)
 
-```
 
 ## ✍️ Auteur
 
-[Mamoudou Ba](https://github.com/Mamoudou12)
+[Mamoudou]([Mamoudou](https://github.com/Mamoudou12))
